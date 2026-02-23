@@ -1,5 +1,5 @@
 const myPromise = new Promise((resolve, reject) => {
-    resolve('Async Success');
+    resolve('Async Success!');
 });
 
 async function myFunction() {
